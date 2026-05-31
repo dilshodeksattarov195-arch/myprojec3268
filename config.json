@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfave",
+        "uuid": 11745192,
+        "checksum": "imbwl7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
